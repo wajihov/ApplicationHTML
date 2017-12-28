@@ -19,7 +19,7 @@ aside{
 	width: 15%;
 	height: 100vh;
 	display: inline-block;
-	background-image: url('images/image2.jpg');
+	background-image: url('images/1.jpg');
 	border: 1px dotted blue;
 }
 section{
@@ -41,6 +41,6 @@ h1{
 	padding: 10px 10px 10px 10px;
 }
 #mes_images img {
-	border: 3px dotted #318000; 
+	border: 5px solid #318000; 
 	width: 32%;
 }
